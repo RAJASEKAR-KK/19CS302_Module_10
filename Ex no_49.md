@@ -1,6 +1,6 @@
 
 # EX 49 C function to search an element in the doubly linked list.
-## DATE: 5/5/25
+## DATE: 
 ## AIM:
 To write a C function to search an element in the doubly linked list.
 
